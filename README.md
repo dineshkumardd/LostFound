@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Clone this repository and run this app with command 'flutter run'
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
